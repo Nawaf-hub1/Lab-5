@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://shorturl.at/qFHY4");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-image: linear-gradient(135deg, #384684 0%, #613c86 100%);
+}
+
+#photoGallery img, button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+body > h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+}
